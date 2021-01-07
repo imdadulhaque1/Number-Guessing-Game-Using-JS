@@ -1,0 +1,20 @@
+#loading{
+    display:none;
+}
+#guess-btn{
+    
+    margin:0px;
+    margin-left: 10px;
+}
+button{
+    border-radius: 15%;
+    border: 5px solid black;
+    padding:10px;
+    background: gray;
+}
+button:hover{
+    border-radius: 15%;
+    border: 5px solid red;
+    padding:10px;
+    background: white;
+}
